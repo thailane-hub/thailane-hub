@@ -47,10 +47,10 @@
   </a>
 </div>
 
-![snake gif](https://github.com/thailane-hub/thailane-hub/blob/output/github-contribution-grid-snake.gif)
-
 ###
 
 <img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW96azdlMTkwNGVudWdzOXg4Zm1mdmI5aW5nZmlyMDZjeXYxZm8wMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiN0li02wZFAPrqJq/giphy.webp"  />
+
+![snake gif](https://github.com/thailane-hub/thailane-hub/blob/output/github-contribution-grid-snake.gif)
 
 ###
