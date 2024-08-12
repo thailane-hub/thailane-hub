@@ -47,7 +47,7 @@
   </a>
 </div>
 
-![snake gif](https://github.com/thailane-hub/thailane-hub/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/thailane-hub/thailane-hub/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
