@@ -2,8 +2,6 @@
 
 <h2 align="left">Hi 👋!  welcome to my Github profile</h2>
 
-<br clear="both">
-
 ###
 
 <div align="center">
