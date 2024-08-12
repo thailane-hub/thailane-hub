@@ -48,12 +48,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thailane-hub/thailane-hub/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW96azdlMTkwNGVudWdzOXg4Zm1mdmI5aW5nZmlyMDZjeXYxZm8wMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiN0li02wZFAPrqJq/giphy.webp"  />
 </div>
