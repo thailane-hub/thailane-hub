@@ -3,7 +3,7 @@
 <h2 align="left">Hi 👋!  welcome to my Github profile</h2>
 
 ###
-![snake gif](https://github.com/thailane-hub/thailane-hub/blob/output/github-contribution-grid-snake.gif)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thailane-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -46,6 +46,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="39" alt="linkedin logo"  />
   </a>
 </div>
+
+![snake gif](https://github.com/thailane-hub/thailane-hub/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
