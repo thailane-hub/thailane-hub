@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thailane-hub&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdwa25ndHl5a2F3NHBuOXp5cXplYWEwaGdndXFpYjNvaWFlMDFhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.webp"  />
@@ -58,8 +57,5 @@
 <div align="left">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW96azdlMTkwNGVudWdzOXg4Zm1mdmI5aW5nZmlyMDZjeXYxZm8wMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiN0li02wZFAPrqJq/giphy.webp"  />
 </div>
-https://github.com/thailane-hub/thailane-hub/blob/output/github-contribution-grid-snake.gif
-![snake gif](https://github.com/thailane-hub/thailane-hub/blob/output/github-contribution-grid-snake.gif)
-
 
 ###
